@@ -4,9 +4,9 @@
 
 Hey manojvishwa201!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚 
 
-Remember, it's self-paced so feel free to take a break! ☕️ And when you're back, just get on with it.
+Remember, it's self-paced so feel free to take a break! ☕️ This is just a test file.
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/manojvishwa201/skills-introduction-to-git2/issues/1)
 
